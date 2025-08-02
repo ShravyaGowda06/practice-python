@@ -1,2 +1,12 @@
 # practice-python
-Practice repository to learn and explore Python basics.
+
+🧠 This is a practice repository to learn and explore Python basics.
+
+---
+
+## 🗂 Files and Descriptions
+
+### hello.py
+
+```python
+print("Hello, GitHub!")
